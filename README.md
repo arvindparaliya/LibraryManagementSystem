@@ -112,5 +112,5 @@ This project demonstrates the proper use of Java OOP concepts in a modular, real
 
 ---
 
-## 💡 Want to contribute or improve it?
-Fork the repo and submit a PR! We'd love to have your contributions. 💬
+## Want to contribute or improve it?
+Fork the repo and submit a PR! We'd love to have your contributions.
